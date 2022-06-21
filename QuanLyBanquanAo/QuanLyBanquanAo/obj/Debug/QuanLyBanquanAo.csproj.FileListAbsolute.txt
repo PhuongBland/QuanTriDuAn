@@ -1,0 +1,17 @@
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\obj\Debug\QuanLyBanquanAo.csproj.AssemblyReference.cache
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\obj\Debug\QuanLyBanquanAo.csproj.SuggestedBindingRedirects.cache
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\obj\Debug\QuanLyBanquanAo.Form1.resources
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\obj\Debug\QuanLyBanquanAo.Properties.Resources.resources
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\obj\Debug\QuanLyBanquanAo.csproj.GenerateResource.cache
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\obj\Debug\QuanLyBanquanAo.csproj.CoreCompileInputs.cache
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\bin\Debug\QuanLyBanquanAo.exe.config
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\bin\Debug\QuanLyBanquanAo.exe
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\bin\Debug\QuanLyBanquanAo.pdb
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\bin\Debug\EntityFramework.dll
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\bin\Debug\EntityFramework.xml
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\obj\Debug\QuanLyBanquanAo.csproj.CopyComplete
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\obj\Debug\QuanLyBanquanAo.exe
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\obj\Debug\QuanLyBanquanAo.pdb
+C:\Users\lehoa\source\repos\QuanLyBanquanAo\QuanLyBanquanAo\obj\Debug\QuanLyBanquanAo.MainForm.resources
